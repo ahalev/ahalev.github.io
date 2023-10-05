@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ahalev.github.io//sitemap.xml
+Sitemap: https://ahalev.github.io/sitemap.xml
