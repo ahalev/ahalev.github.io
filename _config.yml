@@ -8,8 +8,7 @@ middle_name: S.
 last_name: Halev
 email: ahalev@ucdavis.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am a first year Ph.D. student in Applied Mathematics at the University of California, Davis.
-  I am currently working with Dr. Luka of the Shepherd Institute on optimal methods of bicycle pursuit.
+  I am a sixth year Ph.D. student in Applied Mathematics at the University of California, Davis.
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
